@@ -32,9 +32,9 @@ All interactions with the user are handled through a **graphical user interface 
 
 ---
 
-## 🚀 Features
+## Features
 
-### ✅ Request Registration
+### Request Registration
 - A GUI screen allows users to register a **ticket request**.
 - Fields included:
   | Field                | Description                                   |
